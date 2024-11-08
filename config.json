@@ -1,0 +1,14 @@
+{
+    "auth":{
+       "registry.hub.docker.com":{
+            "username":"jlzeng123",
+            "password":"DOCKERHUB_PASSWORD"
+        }
+    },
+    "image":{
+        "bitnami/redis-cluster": "jlzeng123/redis-cluster",
+        "lobehub/lobe-chat": "jlzeng123/lobe-chat",
+        "docker.elastic.co/kibana/kibana": "jlzeng123/kibana",
+        "docker.elastic.co/elasticsearch/elasticsearch": "jlzeng123/elasticsearch"
+    }
+}
